@@ -7,6 +7,9 @@
 	background-repeat: no-repeat;
 	background-size: 100%;
 }
+#contact{
+	text-align: center;
+}
 nav{
 	background-color: #333;
 	overflow: hidden; /*padding sẽ thừa ra sẽ bị ẩn*/
